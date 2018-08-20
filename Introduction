@@ -1,0 +1,5 @@
+I found that the motor uses acceleration plus PWM to better reduce the eccentricity of the motor.ButBut it is to adjust the
+breakdown frequency of the CPU to 10 milliseconds, which will reduce the life of the CPU but this can reduce the damage to the 
+motor due to the eccentricity.
+Fish, what I want, the bear's paw is also what I want; the two can't get both, and the fish and the bears are also taken.
+；-）
